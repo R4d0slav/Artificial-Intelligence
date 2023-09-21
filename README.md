@@ -65,6 +65,10 @@ At around 1,500 episodes, the model achieved its first full lap. However, there 
 
 The figure above displays the newly created testing tracks, highlighting the model’s performance on each track. The car struggled to complete the first track due to the steep turn, while surprisingly, it successfully completed a full lap on the fourth track despite being disconnected.
 
+
 ## CONCLUSION
 The trained Deep Q-Network agent has demonstrated remarkable learning capabilities by successfully completing full laps around the track. Even more, completing full laps on never before seen tracks.
 This achievement showcases the potential of reinforcement learning algorithms in tackling challenging tasks such as autonomous driving. Future work could focus on further improving the model’s performance, fine-tuning hyperparameters, or extending the approach to more complex environments.
+
+https://github.com/R4d0slav/Artificial-Intelligence/assets/60989050/3b586d44-12f6-4f40-b09d-d17b502a961c
+
